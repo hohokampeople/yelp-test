@@ -1,0 +1,7 @@
+/home/argel/Documents/Javaworks/Test/crescendo/src/main/java/com/crescendo/Application.java
+/home/argel/Documents/Javaworks/Test/crescendo/src/main/java/com/crescendo/yelp/service/YelpService.java
+/home/argel/Documents/Javaworks/Test/crescendo/src/main/java/com/crescendo/model/Review.java
+/home/argel/Documents/Javaworks/Test/crescendo/src/main/java/com/crescendo/yelp/parser/ReviewParser.java
+/home/argel/Documents/Javaworks/Test/crescendo/src/main/java/com/crescendo/controller/ReviewController.java
+/home/argel/Documents/Javaworks/Test/crescendo/src/main/java/com/crescendo/yelp/repository/YelpRepository.java
+/home/argel/Documents/Javaworks/Test/crescendo/src/main/java/com/crescendo/config/CrescendoConfig.java
